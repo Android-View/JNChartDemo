@@ -17,8 +17,7 @@ import java.util.ArrayList;
  * @Author: pyz
  * @Package: com.pyz.myproject
  * @Description: TODO
- * @Project: MyProject
- * @Company: 深圳君南信息系统有限公司
+ * @Project: JNChartDemo
  * @Date: 2016/7/4 15:33
  */
 public class Fragment1 extends android.support.v4.app.Fragment {

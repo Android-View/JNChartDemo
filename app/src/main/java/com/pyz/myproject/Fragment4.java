@@ -11,8 +11,7 @@ import android.view.ViewGroup;
  * @Author: pyz
  * @Package: com.pyz.myproject
  * @Description: TODO
- * @Project: MyProject
- * @Company: 深圳君南信息系统有限公司
+ * @Project: JNChartDemo
  * @Date: 2016/7/4 16:05
  */
 public class Fragment4 extends Fragment {
